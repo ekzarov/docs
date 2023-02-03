@@ -2,7 +2,7 @@ On this page, you can find instructions on how to stake FET, remove your stake, 
 
 ## To Stake
 
-1. Ensure you are logged into your [Fetch wallet](/basics/wallet/getting_started).
+1. Ensure you are logged into your [Fetch wallet](/basics/wallet/getting_started). // https://fetch.ai/stake-fet/ ??? url not working...
 2. On the wallet dashboard, select **Stake**. You should be redirected to the [ledger browser](https://browse-fetchhub.fetch.ai/validators).
 Here you will find a list of every active validator with whom you can stake your FETs. You can also see the amount of FET staked to each validator and their commission rates.
 
